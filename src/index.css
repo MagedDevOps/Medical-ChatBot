@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Cairo', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #fff;
+  color: #000;
+  direction: rtl;
+}
+
+#root {
+  min-height: 100vh;
+  background: #fff;
+} 
